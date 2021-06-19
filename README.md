@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/c.dipu0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/facebook.svg" alt="c.dipu0" height="30" width="40" /></a>
 <a href="https://twitter.com/dipu093" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/twitter.svg" alt="dipu093" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-asad-chowdhury-dipu-38a618147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/linkedin.svg" alt="md-asad-chowdhury-dipu-38a618147" height="30" width="40" /></a>
-<a href="https://instagram.com/c.dipu0" target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/instagram.svg" alt="c.dipu0" height="30" width="40" /></a>
+<a href="https://instagram.com/c.dipu0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/instagram.svg" alt="c.dipu0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC62q5l3A1P7M6Va7qy-tj6w/featured" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@5.2.0/icons/youtube.svg" alt="c.dipu0" height="30" width="40" /></a>
 </p>
 
