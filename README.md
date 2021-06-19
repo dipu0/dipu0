@@ -64,7 +64,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipu0&show_icons=true&locale=en" alt="dipu0" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif">
+<p> <img align="right" alt="Coding" src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif">
+</p>
 
 <div>
     <a href="https://www.facebook.com/c.dipu0/"><span>Facebook</span></a>
