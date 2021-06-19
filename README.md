@@ -2,7 +2,7 @@
 <h3 align="center">Life is like a box of chocolates. You never know what you're gonna get.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=dipu0&label=Profile%20views&color=129e00&style=plastic" alt="dipu0" /> </p>
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif">
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1787323/screenshots/11310814/media/78d925f388bdfd914f5c84a30261e239.png">
 
 - 🌱 I’m currently learning everything...<br>
 
