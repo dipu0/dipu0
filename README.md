@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dipu 👨‍💻</h1>
+<h1 align="center">👋Hi, I'm Dipu 👨‍💻</h1>
 <h3 align="center">Life is like a box of chocolates. You never know what you're gonna get.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=dipu0&label=Profile%20views&color=129e00&style=plastic" alt="dipu0" /> </p>
