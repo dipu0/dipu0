@@ -12,7 +12,7 @@
 
 - 📝 I regularly read articles<br>
 
-- 💬 Ask me about **C/C++, java, android, flutter, python...**<br>
+- 💬 Ask me about **C/C++, java, android, flutter, python, Django...**<br>
 
 - 📫 How to reach me |@| **c.dipu0@gmail.com** <a href = "mailto: c.dipu0@gmail.com">>Send Email</a><br>
 
