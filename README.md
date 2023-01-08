@@ -31,7 +31,7 @@
 <a href="https://instagram.com/c.dipu0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="c.dipu0" height="40" width=40" /></a>
 <a href="https://www.youtube.com/channel/UC62q5l3A1P7M6Va7qy-tj6w/featured" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="c.dipu0" height="50" width="50" /></a>
 <a href="https://twitter.com/dipu093" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="dipu093" height="50" width="50" /></a>
-<a href="https://www.facebook.com/c.dipu0/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="c.dipu0" height="40" width="40" /></a>
+<a href="https://www.facebook.com/macdipu/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="c.dipu0" height="40" width="40" /></a>
 </a><a href="https://github.com/dipu0" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="dipu0" height="50" width="50" /></a>
 </p>
 -->
