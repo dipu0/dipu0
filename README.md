@@ -90,7 +90,9 @@ Databases and experimental tools I work with.
 ## 📊 Contribution Graph
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipu0&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu0&theme=dracula" />
+
+<img src="https://raw.githubusercontent.com/dipu0/dipu0/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
