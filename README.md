@@ -111,5 +111,3 @@ Databases and experimental tools I work with.
 > If it looks cool, I’m probably building with it already 😄
 
 ---
-
-> 🚀 Want a personal portfolio site that matches this style? Let's build one!
