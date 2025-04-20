@@ -92,6 +92,10 @@ Databases and experimental tools I work with.
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu0&theme=dracula" />
 
+  <p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu-polygontech&theme=dracula" />
+
+
 <img src="https://raw.githubusercontent.com/dipu0/dipu0/output/snake.svg" alt="Snake animation" />
 </p>
 
