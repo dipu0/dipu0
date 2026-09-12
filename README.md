@@ -1,145 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:8E44AD&height=220&section=header&text=Hey%20There,%20I'm%20Dipu%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Flutter%20•%20Django%20•%20Android%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:8E44AD&height=200&section=header&text=Md%20Asad%20Chowdhury%20Dipu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20%26%20Backend%20Developer%20%7C%20Flutter%20%C2%B7%20Android%20%C2%B7%20Django&descAlignY=56&descSize=16" width="100%" alt="Md Asad Chowdhury Dipu — Mobile & Backend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&lines=Life+is+like+a+box+of+chocolates...;You+never+know+what+you're+gonna+get.;Currently+learning+everything+I+can+%F0%9F%8C%B1" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=dipu0&label=Profile%20Views&color=8E44AD&style=for-the-badge" alt="Profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/macdipu?label=Followers&style=for-the-badge&color=0E75B6" alt="followers" />
-
-<br><br>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" alt="coding-gif" width="380" style="border-radius: 12px;"/>
+<a href="https://github.com/macdipu"><img src="https://img.shields.io/badge/GitHub-macdipu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/md-asad-chowdhury-dipu-38a618147/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@c.dipu0"><img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:c.dipu0@gmail.com"><img src="https://img.shields.io/badge/Email-c.dipu0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<br>
+---
 
-## 🚀 About Me
+## About
 
-```yaml
-name: Md Asad Chowdhury Dipu
-role: App & Backend Developer
-currently_learning: "Everything I can — from low-level programming to shiny frontend tools"
-building: "Awesome apps with Flutter, Django & more"
-ask_me_about: [C/C++, Java, Android, Flutter, Python, Django, SQL]
-email: c.dipu0@gmail.com
-```
+I build production mobile apps and the backends behind them. Most of my work sits at the
+intersection of **Flutter/Android** on the client and **Django/Java** on the server — shipping
+to Google Play, integrating third-party and core banking systems, and writing about what I learn
+along the way.
 
-<p align="left">
-  <a href="https://github.com/macdipu"><img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://medium.com/@c.dipu0"><img src="https://img.shields.io/badge/Medium-Read%20My%20Blog-000000?style=for-the-badge&logo=medium" /></a>
-</p>
+- 🛠️ **Working with:** Flutter, Dart, Django, Java, Kotlin, Python
+- 🌱 **Currently learning:** systems-level programming and modern frontend tooling
+- ✍️ **Writing:** developer tutorials on [Medium](https://medium.com/@c.dipu0)
+- 💬 **Ask me about:** Flutter architecture, Android, Django REST APIs, SQL, C/C++
+- 📍 **Based in:** Bangladesh
 
-<br>
+---
 
-## 🌐 Connect with Me
+## Featured Projects
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-asad-chowdhury-dipu-38a618147/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="https://www.facebook.com/macdipu/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="45" /></a>
-  <a href="https://twitter.com/dipu093" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
-  <a href="https://instagram.com/c.dipu0" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45" /></a>
-  <a href="https://www.youtube.com/channel/UC62q5l3A1P7M6Va7qy-tj6w/featured" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="45" /></a>
-</p>
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Sipwell](https://github.com/macdipu)** | Water intake tracker with reminders and daily goal tracking, published on Google Play | Flutter · Dart |
+| **[Project name](https://github.com/macdipu)** | One-line description of what it does and who it's for | Django · PostgreSQL |
+| **[Project name](https://github.com/macdipu)** | One-line description of what it does and who it's for | Java · Spring |
 
-<br>
+> Replace the rows above with your strongest public repos, then pin the same ones on your profile.
 
-## 💻 Tech Stack & Tools
+---
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## Tech Stack
 
-**🧩 Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,django" />
+**Languages**
 
-**🎨 UI & Design**
-<br>
-<img src="https://skillicons.dev/icons?i=figma,xd,bootstrap,html,css" />
+<img src="https://skillicons.dev/icons?i=dart,java,kotlin,python,c,cpp" alt="Dart, Java, Kotlin, Python, C, C++" />
 
-</td>
-<td valign="top" width="50%">
+**Frameworks & Platforms**
 
-**🧠 Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=dart,java,kotlin,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=flutter,django,firebase,gcp,bootstrap,html,css" alt="Flutter, Django, Firebase, GCP, Bootstrap, HTML, CSS" />
 
-**🔧 Databases & Other**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,ai" />
+**Databases**
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" alt="MySQL, SQLite, PostgreSQL" />
 
-**⚙️ Dev Tools & Productivity**
-<br>
-<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,bash,linux,gcp" />
+**Tools & Design**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,bash,linux,docker,kubernetes,figma,ai" alt="Android Studio, VS Code, Git, GitHub, Bash, Linux, Docker, Kubernetes, Figma, Illustrator" />
 
-<br>
+---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macdipu&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macdipu&layout=compact&langs_count=6&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=macdipu&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=macdipu&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
-<br>
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=macdipu&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipu-polygontech&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/macdipu/macdipu/output/snake.svg" alt="Snake animation" />
-</p>
-
-<br>
-
-## 💬 Dev Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<br>
-
-## ⚡ Fun Fact
-
-> I love learning new tools and experimenting with tech just for fun.
-> If it looks cool, I'm probably building with it already 😄
-
-<br>
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0E75B6&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=macdipu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=macdipu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="165" alt="GitHub stats for macdipu" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=macdipu&layout=compact&langs_count=6&hide_border=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=macdipu&layout=compact&langs_count=6&hide_border=true" height="165" alt="Most used languages" />
+</picture>
 
-<i>Thanks for stopping by! ⭐ from a project you liked keeps me motivated.</i>
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=macdipu&hide_border=true&theme=github-dark-blue" />
+  <img src="https://streak-stats.demolab.com?user=macdipu&hide_border=true" height="180" alt="Contribution streak" />
+</picture>
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/macdipu/macdipu/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/macdipu/macdipu/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>Thanks for stopping by — a ⭐ on a project you find useful is always appreciated.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:0E75B6&height=120&section=footer" width="100%" alt="" />
 
 </div>
